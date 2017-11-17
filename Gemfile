@@ -34,6 +34,8 @@ gem 'webpacker', '~> 3.0'
 gem "figaro"
 # crypt password
 gem 'bcrypt', '~> 3.1.7'
+# i18n for React
+gem 'i18n-js'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
