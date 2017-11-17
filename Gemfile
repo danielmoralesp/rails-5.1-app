@@ -32,6 +32,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'webpacker', '~> 3.0'
 # environment variablew
 gem "figaro"
+# crypt password
+gem 'bcrypt', '~> 3.1.7'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
